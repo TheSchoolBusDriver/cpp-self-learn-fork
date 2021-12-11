@@ -22,6 +22,11 @@ int main()
     // Normal print statement.
     cout << "Giraffe Academy" << endl;
 
+    // Print statement that goes to a new line.
+    cout << "Giraffe Academy \n is awesome." << endl;
+
+    
+
     // Ending the main function.
     return 0;
 }
