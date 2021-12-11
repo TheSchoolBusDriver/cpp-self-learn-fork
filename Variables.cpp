@@ -14,6 +14,8 @@
 // Initialising the C++ header file.
 #inlude <iostream>
 
+// Setting the header file standard.
+using namespace std;
 
 
 // Program end.
