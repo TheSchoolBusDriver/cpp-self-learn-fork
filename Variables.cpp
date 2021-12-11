@@ -12,7 +12,7 @@
 // Program start.
 
 // Initialising the C++ header file.
-#inlude < iostream>
+#inlude <iostream>
 
 // Setting the header file standard.
 using namespace std;
