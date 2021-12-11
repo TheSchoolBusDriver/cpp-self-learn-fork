@@ -12,10 +12,15 @@
 // Program start.
 
 // Initialising the C++ header file.
-#inlude <iostream>
+#inlude < iostream>
 
 // Setting the header file standard.
 using namespace std;
 
+// Initialising the main function.
+int main()
+{
+    
+}
 
 // Program end.
