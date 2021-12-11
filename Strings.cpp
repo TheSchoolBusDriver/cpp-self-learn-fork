@@ -22,7 +22,8 @@ int main()
     // Normal print statement.
     cout << "Giraffe Academy" << endl;
 
-
+    // Ending the main function.
+    return 0;
 }
 
 // Program end.
