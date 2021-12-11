@@ -20,9 +20,9 @@ using namespace std;
 int main() 
 {
     // Normal print statement.
-    cout << "" << endl;
+    cout << "Giraffe Academy" << endl;
 
-    
+
 }
 
 // Program end.
