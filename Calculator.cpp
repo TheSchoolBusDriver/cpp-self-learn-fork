@@ -19,7 +19,6 @@ using namespace std;
 // Initialising the main class
 int main()
 {
-
     // Defining variables that will store two values that will be passed
     float a, b;
 
