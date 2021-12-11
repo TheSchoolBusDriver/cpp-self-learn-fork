@@ -19,6 +19,9 @@ using namespace std;
 // Initialising the main function.
 int main() 
 {
+    // Normal print statement.
+    cout << "" << endl;
+
     
 }
 
