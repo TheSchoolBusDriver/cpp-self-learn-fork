@@ -11,6 +11,9 @@
 
 // Program start.
 
+// Initialising the C++ header file.
+#inlude <iostream>
+
 
 
 // Program end.
