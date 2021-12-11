@@ -13,6 +13,9 @@
 
 // Initialises the header file of C++
 #include <iostream>
+// Stating the namespace being used will be the standard
+using namespace std;
+
 
 
 // Program end.
