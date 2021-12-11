@@ -16,6 +16,10 @@
 // Stating the namespace being used will be the standard
 using namespace std;
 
-
+// Initialising the main function.
+int main() 
+{
+    
+}
 
 // Program end.
