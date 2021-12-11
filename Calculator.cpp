@@ -3,7 +3,7 @@
 // Name: Ahmed Affaan                            //
 // Title: Calculator.cpp                         //
 // Date: 11/12/2021                              //
-// Country: Maldives                             //
+// Country: Republic of Maldives                 //
 // Description: Simple calculator                //
 //              using special characters.        //
 ///////////////////////////////////////////////////
