@@ -13,6 +13,18 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Program start.
 
+#include <iostream>
 
+using namespace std;
+
+// Main function.
+int main()
+{
+    // Will print out a message.
+    cout << "" << endl;
+    cout << "" << endl;
+    cout << "" << endl;
+    cout << "" << endl;
+}
 
 // Program end.
