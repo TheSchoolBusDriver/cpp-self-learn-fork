@@ -13,6 +13,20 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Program start.
 
+// Calling the header file.
+#include <iostream>
 
+using namespace std;
+
+// Main function.
+int main()
+{
+    // Prints out a shape using special characters
+    cout << "" << endl;
+    cout << "" << endl;
+    cout << "" << endl;
+    cout << "" << endl;
+    return 0;
+}
 
 // Program end.
