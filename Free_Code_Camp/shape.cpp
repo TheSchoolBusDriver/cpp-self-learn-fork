@@ -22,10 +22,11 @@ using namespace std;
 int main()
 {
     // Prints out a shape using special characters
-    cout << "" << endl;
-    cout << "" << endl;
-    cout << "" << endl;
-    cout << "" << endl;
+    cout << "   /|" << endl;
+    cout << "  / |" << endl;
+    cout << " /  |" << endl;
+    cout << "/___|" << endl;
+
     return 0;
 }
 
