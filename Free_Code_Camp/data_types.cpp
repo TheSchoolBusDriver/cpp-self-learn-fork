@@ -13,6 +13,24 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Program start.
 
+#include <iostream>
 
+using namespace std;
+
+// Main function.
+int main()
+{
+    // Variable declarations.
+    char grade = 'A'; // Data type to store a character.
+    string phrase = "Giraffe Academy"; // Data type to store strings of character.
+    int age = 23; // Data type to store an integer.
+    int negative_age = -23; // Data type to store an integer(negative numbers).
+    double gpa = 120.00; // Data type to store decimal numbers.
+    bool isMale = true; // Data type to store True or False statements.
+    bool isFemale = false; // Data type to store True or False statements.
+
+    return 0;
+
+}
 
 // Program end.
