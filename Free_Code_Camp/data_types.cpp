@@ -29,6 +29,15 @@ int main()
     bool isMale = true; // Data type to store True or False statements.
     bool isFemale = false; // Data type to store True or False statements.
 
+    // Printing data type variables.
+    cout << "This year I got a " << grade << " in Computer Science." << endl;
+    cout << "I did a C++ Tutorial for Beginners by " << phrase << endl;
+    cout << "I am now " << age << " years old." << endl;
+    cout << "The current temperature is now " << negative_age << endl;
+    cout << "My overall gpa is " << gpa << endl;
+    cout << "Are you Male or Female(M/F): " << isMale << endl;
+    cout << "Are you Male or Female(M/F): " << isFemale << endl;
+    
     return 0;
 
 }
