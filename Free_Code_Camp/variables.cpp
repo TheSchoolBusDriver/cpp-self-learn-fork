@@ -20,6 +20,11 @@ using namespace std;
 // Main function.
 int main()
 {
+    // Variables to store characters name and age.
+    string characterName = "Affaan";
+    int characterAge;
+    characterAge = 23;
+
     // Will print out a message.
     cout << "There was once a man named George" << endl;
     cout << "He was 70 years old" << endl;
