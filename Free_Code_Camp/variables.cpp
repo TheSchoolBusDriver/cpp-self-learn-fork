@@ -21,10 +21,10 @@ using namespace std;
 int main()
 {
     // Will print out a message.
-    cout << "" << endl;
-    cout << "" << endl;
-    cout << "" << endl;
-    cout << "" << endl;
+    cout << "There was once a man named George" << endl;
+    cout << "He was 70 years old" << endl;
+    cout << "He liked the name George" << endl;
+    cout << "But did not like being 70" << endl;
 
     return 0;
 }
