@@ -1,8 +1,0 @@
-bin/
-obj/
-*.cbp
-*.layout
-*.depend
-shape
-variables
-data_types
