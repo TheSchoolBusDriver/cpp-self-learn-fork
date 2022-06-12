@@ -42,6 +42,9 @@ int main()
     // Prints exact index character from string.
     cout << phrase[0] << endl;
 
+    // Finding a specific character inside a string.
+    cout << phrase.find("Academy", 0) << endl;
+
     return 0;
 }
 
