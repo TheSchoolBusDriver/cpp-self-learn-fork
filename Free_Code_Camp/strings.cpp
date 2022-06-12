@@ -36,6 +36,9 @@ int main()
     // String concatenation.
     cout << phrase << " is bald." << endl;
 
+    // Finds length of characters.
+    cout << phrase.length();
+
     return 0;
 }
 
