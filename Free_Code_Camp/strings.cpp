@@ -40,7 +40,7 @@ int main()
     cout << phrase.length() << endl;
 
     // Prints exact index character from string.
-    cout << phrase[1] << endl;
+    cout << phrase[0] << endl;
 
     return 0;
 }
