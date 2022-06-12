@@ -20,9 +20,14 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Printing a String.
+    // Normal string.
     cout << "Giraffe Academy" << endl;
-    cout << "Hello" << endl;
+
+    // Prints to a new line.
+    cout << "Giraffe\nAcademy" << endl;
+
+    // Prints out a single quotation mark.
+    cout << "Giraffe\"Academy" << endl;
 
     return 0;
 }
