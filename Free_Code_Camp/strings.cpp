@@ -37,7 +37,10 @@ int main()
     cout << phrase << " is bald." << endl;
 
     // Finds length of characters.
-    cout << phrase.length();
+    cout << phrase.length() << endl;
+
+    // Prints exact index character from string.
+    cout << phrase[1] << endl;
 
     return 0;
 }
