@@ -45,6 +45,9 @@ int main()
     // Finding a specific character inside a string.
     cout << phrase.find("Academy", 0) << endl;
 
+    // Gives back characters according to index and count.
+    cout << phrase.substr(8, 3) << endl;
+
     return 0;
 }
 
