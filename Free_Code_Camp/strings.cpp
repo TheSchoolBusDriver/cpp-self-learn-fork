@@ -33,7 +33,8 @@ int main()
     string phrase = "Affaan";
     cout << phrase << endl;
 
-    
+    // String concatenation.
+    cout << phrase << " is bald." << endl;
 
     return 0;
 }
