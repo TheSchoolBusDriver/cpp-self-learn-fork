@@ -30,7 +30,7 @@ int main()
     cout << "Giraffe\"Academy" << endl;
 
     // Printing a string variable.
-    string phrase = "Affaan";
+    string phrase = "Giraffe Academy";
     cout << phrase << endl;
 
     // String concatenation.
