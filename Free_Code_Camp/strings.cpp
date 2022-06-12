@@ -29,6 +29,12 @@ int main()
     // Prints out a single quotation mark.
     cout << "Giraffe\"Academy" << endl;
 
+    // Printing a string variable.
+    string phrase = "Affaan";
+    cout << phrase << endl;
+
+    
+
     return 0;
 }
 
