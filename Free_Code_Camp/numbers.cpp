@@ -92,7 +92,7 @@ int main()
     //cout << ceil(4.5) << endl;
 
     // Calculates to lower rounded number.
-    cout << floor(4.5) << endl;
+    //cout << floor(4.5) << endl;
 
     return 0;
 }
