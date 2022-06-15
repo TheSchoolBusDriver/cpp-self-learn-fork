@@ -54,6 +54,10 @@ int main()
     int wnum = 5;
     cout << wnum << endl;
 
+    // Variable to store decimal number and printing it.
+    double dnum = 5.5;
+    cout << dnum << endl;
+
     return 0;
 }
 
