@@ -32,6 +32,8 @@ int main()
     cout << 10 - 5 << endl;
     // Prints a division of two numbers.
     cout << 100 / 2 << endl;
+    // Prints the sum of two numbers.
+    cout << 6 * 3 << endl;
     return 0;
 }
 
