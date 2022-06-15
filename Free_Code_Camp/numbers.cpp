@@ -68,6 +68,9 @@ int main()
     // Decrements certain amount from variable.
     wnum -= 80;
 
+    // Divides with variable.
+    wnum /= 80;
+
     // Will give a decimal number as answer.
     cout << 5.5 + 9 << endl;
 
