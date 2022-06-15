@@ -13,6 +13,14 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Program start.
 
+#include <iostream>
 
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}
 
 // Program end.
