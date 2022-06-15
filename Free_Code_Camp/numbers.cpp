@@ -42,6 +42,7 @@ int main()
 
     // Prints a division of two numbers.
     cout << 100 / 2 << endl;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Prints the sum of two numbers.
     cout << 6 * 3 << endl;
