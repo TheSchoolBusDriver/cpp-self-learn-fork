@@ -36,6 +36,10 @@ int main()
     cout << 6 * 3 << endl;
     // Prints the remainder of two numbers.
     cout << 10 % 3 << endl;
+    // Order of operations (Multiplication first).
+    cout << 4 + 5 * 10 << endl;
+    // Order of operations (Addition first).
+    cout << (4 + 5) * 10 << endl;
     return 0;
 }
 
