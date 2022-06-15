@@ -62,6 +62,9 @@ int main()
     dnum++;
     dnum--;
 
+    // Increments certain amount to variable.
+    wnum += 80;
+
     return 0;
 }
 
