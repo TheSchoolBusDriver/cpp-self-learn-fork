@@ -58,6 +58,9 @@ int main()
     double dnum = 5.5;
     cout << dnum << endl;
 
+    // Increments to a variable.
+    dnum++;
+
     return 0;
 }
 
