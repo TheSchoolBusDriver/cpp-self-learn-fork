@@ -97,6 +97,9 @@ int main()
     // Calculates the highest number out of two numbers.
     //cout << fmax(3, 13) << endl;
 
+    // Calculates the smallest number out of two numbers.
+    cout << fmin(3, 13) << endl;
+
     return 0;
 }
 
