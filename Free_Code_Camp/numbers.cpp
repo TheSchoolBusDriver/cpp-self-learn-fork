@@ -61,6 +61,9 @@ int main()
     // Increments to a variable.
     dnum++;
 
+    // Decreases from a variable.
+    dnum--;
+
     return 0;
 }
 
