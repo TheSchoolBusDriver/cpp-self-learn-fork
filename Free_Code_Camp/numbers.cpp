@@ -28,6 +28,8 @@ int main()
     cout << -40.09823 << endl;
     // Prints an addition of two numbers.
     cout << 5 + 7 << endl;
+    // Prints a substraction of two numbers.
+    cout << 10 - 5 << endl;
     return 0;
 }
 
