@@ -52,11 +52,11 @@ int main()
     //cout << (4 + 5) * 10 << endl;
 
     // Variable to store whole number and printing it.
-    int wnum = 5;
+    //int wnum = 5;
     //cout << wnum << endl;
 
     // Variable to store decimal number and printing it.
-    double dnum = 5.5;
+    //double dnum = 5.5;
     //cout << dnum << endl;
 
     // Increments and decrements to and from a variable.
