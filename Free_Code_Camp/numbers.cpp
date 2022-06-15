@@ -38,6 +38,7 @@ int main()
 
     // Prints a substraction of two numbers.
     cout << 10 - 5 << endl;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Prints a division of two numbers.
     cout << 100 / 2 << endl;
