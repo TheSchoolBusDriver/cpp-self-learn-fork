@@ -82,6 +82,9 @@ int main()
     // Calculates to the power.
     //cout << pow(2, 5) << endl;
 
+    // Calculates the square root.
+    cout << sqrt(36) << endl;
+
     return 0;
 }
 
