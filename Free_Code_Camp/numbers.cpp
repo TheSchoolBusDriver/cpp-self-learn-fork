@@ -98,7 +98,7 @@ int main()
     //cout << fmax(3, 13) << endl;
 
     // Calculates the smallest number out of two numbers.
-    cout << fmin(3, 13) << endl;
+    //cout << fmin(3, 13) << endl;
 
     return 0;
 }
