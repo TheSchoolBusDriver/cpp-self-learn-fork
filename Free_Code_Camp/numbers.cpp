@@ -20,7 +20,8 @@ using namespace std;
 // Main function.
 int main()
 {
-    cout << "Hello World" << endl;
+    // Printing a number.
+    cout << 40 << endl;
     return 0;
 }
 
