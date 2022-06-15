@@ -65,6 +65,9 @@ int main()
     // Increments certain amount to variable.
     wnum += 80;
 
+    // Will give a decimal number as answer.
+    cout << 5.5 + 9 << endl;
+
     return 0;
 }
 
