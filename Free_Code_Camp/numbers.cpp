@@ -74,6 +74,9 @@ int main()
     // Will give a decimal number as answer.
     //cout << 5.5 + 9 << endl;
 
+    // Will give a decimal number as division answer.
+    cout << 10.0 / 3.0 << endl;
+
     return 0;
 }
 
