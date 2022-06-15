@@ -34,6 +34,8 @@ int main()
     cout << 100 / 2 << endl;
     // Prints the sum of two numbers.
     cout << 6 * 3 << endl;
+    // Prints the remainder of two numbers.
+    cout << 10 % 3 << endl;
     return 0;
 }
 
