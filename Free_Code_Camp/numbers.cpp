@@ -95,7 +95,7 @@ int main()
     //cout << floor(4.5) << endl;
 
     // Calculates the highest number out of two numbers.
-    cout << fmax(3, 13) << endl;
+    //cout << fmax(3, 13) << endl;
 
     return 0;
 }
