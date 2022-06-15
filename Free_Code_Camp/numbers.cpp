@@ -80,7 +80,7 @@ int main()
 
     // MATH OPERATIONS //
     // Calculates to the power.
-    cout << pow(2, 5) << endl;
+    //cout << pow(2, 5) << endl;
 
     return 0;
 }
