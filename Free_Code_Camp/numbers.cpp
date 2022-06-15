@@ -88,6 +88,9 @@ int main()
     // Calculates the rounded number.
     //cout << round(4.5) << endl;
 
+    // Calculates to higher rounded number.
+    cout << ceil(4.5) << endl;
+
     return 0;
 }
 
