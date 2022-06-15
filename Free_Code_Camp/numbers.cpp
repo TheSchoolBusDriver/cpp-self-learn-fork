@@ -22,24 +22,34 @@ int main()
 {
     // Printing a number.
     cout << 40 << endl;
+
     // Printing a negative number.
     cout << -40 << endl;
+
     // Printing a negative decimal number.
     cout << -40.09823 << endl;
+
     // Prints an addition of two numbers.
     cout << 5 + 7 << endl;
+
     // Prints a substraction of two numbers.
     cout << 10 - 5 << endl;
+
     // Prints a division of two numbers.
     cout << 100 / 2 << endl;
+
     // Prints the sum of two numbers.
     cout << 6 * 3 << endl;
+
     // Prints the remainder of two numbers.
     cout << 10 % 3 << endl;
+
     // Order of operations (Multiplication first).
     cout << 4 + 5 * 10 << endl;
+
     // Order of operations (Addition first).
     cout << (4 + 5) * 10 << endl;
+    
     return 0;
 }
 
