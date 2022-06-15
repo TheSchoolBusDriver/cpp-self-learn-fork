@@ -30,6 +30,8 @@ int main()
     cout << 5 + 7 << endl;
     // Prints a substraction of two numbers.
     cout << 10 - 5 << endl;
+    // Prints a division of two numbers.
+    cout << 100 / 2 << endl;
     return 0;
 }
 
