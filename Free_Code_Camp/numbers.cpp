@@ -24,6 +24,8 @@ int main()
     cout << 40 << endl;
     // Printing a negative number.
     cout << -40 << endl;
+    // Printing a negative decimal number.
+    cout << -40.00 << endl;
     return 0;
 }
 
