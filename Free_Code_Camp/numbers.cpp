@@ -50,6 +50,7 @@ int main()
 
     // Prints the remainder of two numbers.
     cout << 10 % 3 << endl;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Order of operations (Multiplication first).
     cout << 4 + 5 * 10 << endl;
