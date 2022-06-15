@@ -26,6 +26,8 @@ int main()
     cout << -40 << endl;
     // Printing a negative decimal number.
     cout << -40.09823 << endl;
+    // Prints an addition of two numbers.
+    cout << 5 + 7 << endl;
     return 0;
 }
 
