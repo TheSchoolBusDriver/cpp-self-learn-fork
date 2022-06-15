@@ -26,6 +26,7 @@ int main()
 
     // Printing a negative number.
     cout << -40 << endl;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Printing a negative decimal number.
     cout << -40.09823 << endl;
