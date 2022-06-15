@@ -78,6 +78,10 @@ int main()
     // Will give a decimal number as division answer.
     //cout << 10.0 / 3.0 << endl;
 
+    // MATH OPERATIONS //
+    // Calculates to the power.
+    cout << pow(2, 5) << endl;
+
     return 0;
 }
 
