@@ -54,33 +54,43 @@ int main()
 
     // Order of operations (Multiplication first).
     cout << 4 + 5 * 10 << endl;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Order of operations (Addition first).
     cout << (4 + 5) * 10 << endl;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Variable to store whole number and printing it.
     int wnum = 5;
     cout << wnum << endl;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Variable to store decimal number and printing it.
     double dnum = 5.5;
     cout << dnum << endl;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Increments and decrements to and from a variable.
     dnum++;
+    cout << "------------------------------------------------------------------------------------------" << endl;
     dnum--;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Increments certain amount to variable.
     wnum += 80;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Decrements certain amount from variable.
     wnum -= 80;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Divides with variable.
     wnum /= 80;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Will give a decimal number as answer.
     cout << 5.5 + 9 << endl;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     return 0;
 }
