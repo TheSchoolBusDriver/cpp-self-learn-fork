@@ -86,7 +86,7 @@ int main()
     //cout << sqrt(36) << endl;
 
     // Calculates the rounded number.
-    cout << round(4.5) << endl;
+    //cout << round(4.5) << endl;
 
     return 0;
 }
