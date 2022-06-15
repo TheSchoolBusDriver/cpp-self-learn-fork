@@ -85,6 +85,9 @@ int main()
     // Calculates the square root.
     //cout << sqrt(36) << endl;
 
+    // Calculates the rounded number.
+    cout << round(4.5) << endl;
+
     return 0;
 }
 
