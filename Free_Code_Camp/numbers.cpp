@@ -34,6 +34,7 @@ int main()
 
     // Prints an addition of two numbers.
     cout << 5 + 7 << endl;
+    cout << "------------------------------------------------------------------------------------------" << endl;
 
     // Prints a substraction of two numbers.
     cout << 10 - 5 << endl;
