@@ -49,7 +49,11 @@ int main()
 
     // Order of operations (Addition first).
     cout << (4 + 5) * 10 << endl;
-    
+
+    // Variable to store whole number and printing it.
+    int wnum = 5;
+    cout << wnum << endl;
+
     return 0;
 }
 
