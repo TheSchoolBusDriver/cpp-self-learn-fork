@@ -91,6 +91,9 @@ int main()
     // Calculates to higher rounded number.
     //cout << ceil(4.5) << endl;
 
+    // Calculates to lower rounded number.
+    cout << floor(4.5) << endl;
+
     return 0;
 }
 
