@@ -22,6 +22,8 @@ int main()
 {
     // Printing a number.
     cout << 40 << endl;
+    // Printing a negative number.
+    cout << -40 << endl;
     return 0;
 }
 
