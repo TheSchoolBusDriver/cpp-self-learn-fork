@@ -20,6 +20,7 @@ using namespace std;
 
 int main()
 {
+    /*
     // Variable to store users age.
     int age;
 
@@ -29,6 +30,7 @@ int main()
 
     // Printing the output.
     cout << "Your age is " << age << " years old." << endl;
+    */
 
     return 0;
 }
