@@ -32,6 +32,7 @@ int main()
     cout << "Your age is " << age << " years old." << endl;
     */
 
+    /*
     // Variable to store users name.
     string name;
 
@@ -41,6 +42,7 @@ int main()
 
     // Printing the output.
     cout << "Well hello " << name << "." << endl;
+    */
 
     return 0;
 }
