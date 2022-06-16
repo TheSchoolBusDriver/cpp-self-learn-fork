@@ -44,16 +44,6 @@ int main()
     cout << "Well hello " << name << "." << endl;
     */
 
-    // Variable declarations.
-    int age;
-    string name;
-
-    // Asking for user input.
-    cout << "Enter your age: ";
-    cin >> age;
-    cout << "Enter your name: ";
-    getline(cin, name);
-
     return 0;
 }
 
