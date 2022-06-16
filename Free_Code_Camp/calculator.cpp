@@ -13,6 +13,16 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Program start.
 
+// Imporing libaries.
+#include <iostream>
+#include <cmath>
 
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}
 
 // Program end.
