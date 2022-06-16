@@ -32,6 +32,13 @@ int main()
     cout << "Your age is " << age << " years old." << endl;
     */
 
+    // Variable to store users name.
+    string name;
+
+    // Asking for user input.
+    cout << "Enter your name: ";
+    getline(cin, name);
+
     return 0;
 }
 
