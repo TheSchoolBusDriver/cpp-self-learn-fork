@@ -39,6 +39,9 @@ int main()
     cout << "Enter your name: ";
     getline(cin, name);
 
+    // Printing the output.
+    cout << "Well hello " << name << "." << endl;
+
     return 0;
 }
 
