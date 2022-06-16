@@ -25,7 +25,10 @@ int main()
 
     // Asking for user input.
     cout << "Enter your age: ";
-    cin >> age; 
+    cin >> age;
+
+    // Printing the output.
+    cout << "Your age is " << age << " years old." << endl;
 
     return 0;
 }
