@@ -20,7 +20,13 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    // Variable to store users age.
+    int age;
+
+    // Asking for user input.
+    cout << "Enter your age: ";
+    cin >> age; 
+
     return 0;
 }
 
