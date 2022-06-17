@@ -22,8 +22,17 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    // Variables to store numbers to be calculated.
+    int num1, num2;
+
+    // Asks for user input.
+    // Number 01.
+    cout << "Enter first number: ";
+    cin >> num1;
+    // Number 02;
+    cout << "Enter second number: ";
+    cin >> num2;
+
     return 0;
 }
 
