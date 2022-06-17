@@ -43,8 +43,10 @@ int main()
     cout << "Number 01 - Number 02 = " << num1 - num2 << endl;
     */
 
+    /*
     // Multiplication.
     cout << "Number 01 x Number 02 = " << num1 * num2 << endl;
+    */
 
     return 0;
 }
