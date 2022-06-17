@@ -34,7 +34,10 @@ int main()
     cin >> num2;
 
     // Addition.
-    cout << "Number 01 + Number 02 = " << num1 + num2;
+    cout << "Number 01 + Number 02 = " << num1 + num2 << endl;
+
+    // Subtraction.
+    cout << "Number 01 - Number 02 = " << num1 - num2 << endl;
 
     return 0;
 }
