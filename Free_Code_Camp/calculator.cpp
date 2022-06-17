@@ -19,6 +19,7 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
+// Main function.
 int main()
 {
     cout << "Hello World!" << endl;
