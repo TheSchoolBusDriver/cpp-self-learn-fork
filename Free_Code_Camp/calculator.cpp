@@ -33,10 +33,8 @@ int main()
     cout << "Enter second number: ";
     cin >> num2;
 
-    /*
     // Addition.
     cout << "Number 01 + Number 02 = " << num1 + num2 << endl;
-    */
 
     /*
     // Subtraction.
