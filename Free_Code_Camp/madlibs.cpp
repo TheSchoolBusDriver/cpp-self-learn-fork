@@ -22,8 +22,11 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    // Madlibs initial messages.
+    cout << "Roses are red" << endl;
+    cout << "Violets are blue" << endl;
+    cout << "I love you" << endl;
+
     return 0;
 }
 
