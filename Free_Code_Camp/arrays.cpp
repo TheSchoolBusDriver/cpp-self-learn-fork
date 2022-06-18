@@ -13,6 +13,18 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Program start.
 
+// Importing libraries.
+#include <iostream>
+#include <cmath>
 
+using namespace std;
+
+// Main function.
+int main()
+{
+    // Printing a message.
+    cout << "Hello World!" << endl;
+    return 0;
+}
 
 // Program end.
