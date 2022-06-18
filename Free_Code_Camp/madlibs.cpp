@@ -22,6 +22,9 @@ using namespace std;
 // Main function.
 int main()
 {
+    // Variables to store parts of Madlib.
+    string colour, pluralNoun, celebrity;
+
     // Madlibs initial messages.
     cout << "Roses are red" << endl;
     cout << "Violets are blue" << endl;
