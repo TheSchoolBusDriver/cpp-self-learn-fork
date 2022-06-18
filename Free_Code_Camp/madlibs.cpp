@@ -25,6 +25,17 @@ int main()
     // Variables to store parts of Madlib.
     string colour, pluralNoun, celebrity;
 
+    // Asks for user input.
+    // Colour.
+    cout << "Enter a colour: ";
+    getline(cin, colour);
+    // Plural Noun.
+    cout << "Enter a Plural Noun: ";
+    getline(cin, pluralNoun);
+    // Celebrity.
+    cout << "Enter a Celebrity: ";
+    getline(cin, celebrity);
+
     // Madlibs initial messages.
     cout << "Roses are red" << endl;
     cout << "Violets are blue" << endl;
