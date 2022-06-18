@@ -35,6 +35,8 @@ int main()
     // Celebrity.
     cout << "Enter a Celebrity: ";
     getline(cin, celebrity);
+    // Separator.
+    cout << "" << endl;
 
     // Madlibs modified messages.
     cout << "Roses are " << colour << endl;
