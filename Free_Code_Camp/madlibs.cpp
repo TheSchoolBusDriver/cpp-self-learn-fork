@@ -36,10 +36,10 @@ int main()
     cout << "Enter a Celebrity: ";
     getline(cin, celebrity);
 
-    // Madlibs initial messages.
-    cout << "Roses are red" << endl;
-    cout << "Violets are blue" << endl;
-    cout << "I love you" << endl;
+    // Madlibs modified messages.
+    cout << "Roses are " << colour << endl;
+    cout << pluralNoun << " are blue" << endl;
+    cout << "I love " << celebrity << endl;
 
     return 0;
 }
