@@ -16,7 +16,6 @@ Note: Uncomment codes to execute and comment them when not in use.
 // Calling the header file
 #include <iostream>
 
-//
 using namespace std;
 
 // Main function.
