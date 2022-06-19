@@ -31,6 +31,9 @@ int main()
     cout << luckyNums[0];
     */
 
+    // Element at index 2.
+    cout << luckyNums[2];
+
     return 0;
 }
 
