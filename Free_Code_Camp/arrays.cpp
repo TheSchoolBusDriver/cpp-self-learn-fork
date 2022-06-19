@@ -23,7 +23,7 @@ using namespace std;
 int main()
 {
     // Array of integers.
-    int luckyNums[] = {4, 8, 15, 16, 23, 42};
+    int luckyNums[20] = {4, 8, 15, 16, 23, 42};
 
     // Accessing elements inside array of integers.
     /*
