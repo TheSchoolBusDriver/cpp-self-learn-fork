@@ -34,6 +34,9 @@ int main()
     // Element at index 2.
     cout << luckyNums[2];
 
+    // Modifying an element inside array of integers.
+    luckyNums[3] = 17;
+
     return 0;
 }
 
