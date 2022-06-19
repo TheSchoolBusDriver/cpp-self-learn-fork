@@ -26,8 +26,10 @@ int main()
     int luckyNums[] = {4, 8, 15, 16, 23, 42};
 
     // Accessing elements inside array of integers.
+    /*
     // Element at index 0.
     cout << luckyNums[0];
+    */
 
     return 0;
 }
