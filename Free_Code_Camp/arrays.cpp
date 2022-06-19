@@ -22,8 +22,9 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    // Array of integers.
+    int luckyNums[] = {4, 8, 15, 16, 23, 42};
+
     return 0;
 }
 
