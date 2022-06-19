@@ -31,8 +31,10 @@ int main()
     cout << luckyNums[0];
     */
 
+    /*
     // Element at index 2.
     cout << luckyNums[2];
+    */
 
     // Modifying an element inside array of integers.
     luckyNums[3] = 17;
