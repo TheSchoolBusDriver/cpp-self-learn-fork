@@ -19,17 +19,17 @@ Note: Uncomment codes to execute and comment them when not in use.
 using namespace std;
 
 // This function will print a simple message.
-void sayHi()
+void sayHi(string name)
 {
     // Print statement.
-    cout << "Hello User!" << endl;
+    cout << "Hello " << name << endl;
 }
 
 // Main function.
 int main()
 {
     // Calling the function.
-    sayHi();
+    sayHi("Affaan");
     return 0;
 }
 
