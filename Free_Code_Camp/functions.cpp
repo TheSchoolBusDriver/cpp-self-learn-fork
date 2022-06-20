@@ -30,6 +30,9 @@ int main()
 {
     // Calling the function.
     sayHi("Affaan", 23);
+    sayHi("Ahmed", 24);
+    sayHi("Mohamed", 25);
+    sayHi("Ibrahim", 26);
     return 0;
 }
 
