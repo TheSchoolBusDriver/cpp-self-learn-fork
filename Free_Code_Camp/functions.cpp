@@ -18,12 +18,8 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
-// This function will print a simple message.
-void sayHi(string name, int age)
-{
-    // Print statement.
-    cout << "Hello " << name << ". You are " << age << "." << endl;
-}
+// Function stub for "sayHi".
+void sayHi(string name, int age);
 
 // Main function.
 int main()
@@ -34,6 +30,13 @@ int main()
     sayHi("Mohamed", 25);
     sayHi("Ibrahim", 26);
     return 0;
+}
+
+// This function will print a simple message.
+void sayHi(string name, int age)
+{
+    // Print statement.
+    cout << "Hello " << name << ". You are " << age << "." << endl;
 }
 
 // Program end.
