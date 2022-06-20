@@ -18,10 +18,18 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
+// This function will print a simple message.
+void sayHi()
+{
+    // Print statement.
+    cout << "Hello User!" << endl;
+}
+
 // Main function.
 int main()
 {
-    
+    // Calling the function.
+    sayHi();
     return 0;
 }
 
