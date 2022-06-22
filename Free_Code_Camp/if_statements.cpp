@@ -34,7 +34,7 @@ int main()
     }
     else
     {
-        // Printing a error message.
+        // Printing an error message.
         cout << "You are not a short male!" << endl;
     }
 
