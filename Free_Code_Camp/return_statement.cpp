@@ -29,8 +29,11 @@ double cube(double num)
 // Main function.
 int main()
 {
-    // Print statement.
-    cout << "Hello World!" << endl;
+    // Variable to store cubed number.
+    double answer = cube(5.0);
+    // Prints the cubed number.
+    cout << "The answer is: " << answer << endl;
+
     return 0;
 }
 
