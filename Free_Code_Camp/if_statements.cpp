@@ -21,8 +21,11 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    // Variable to store options.
+    bool isMale = true;
+
+    
+
     return 0;
 }
 
