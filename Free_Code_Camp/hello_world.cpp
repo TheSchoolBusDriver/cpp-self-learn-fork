@@ -13,7 +13,7 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Program start.
 
-// Calling the header file
+// Importing libraries.
 #include <iostream>
 
 using namespace std;
