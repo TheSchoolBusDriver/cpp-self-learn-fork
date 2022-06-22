@@ -23,7 +23,7 @@ int main()
 {
     // Variable to store options.
     bool isMale = true;
-    bool isMale = false;
+    //bool isMale = false;
 
     // This will check if the user is a male or not.
     if(isMale)
