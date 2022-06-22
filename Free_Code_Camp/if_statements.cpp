@@ -32,6 +32,12 @@ int main()
         // Printing a success message.
         cout << "You are a tall male!" << endl;
     }
+    // Checks if user is not tall.
+    else if(isMale && !isTall)
+    {
+        // Prints an error message.
+        cout << "You are a short male!";
+    }
     else
     {
         // Printing an error message.
