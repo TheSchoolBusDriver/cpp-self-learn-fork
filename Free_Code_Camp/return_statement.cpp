@@ -18,6 +18,14 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
+// This function will cube a number.
+double cube(double num)
+{
+    // This will return the cube value.
+    double result = num * num * num;
+    return result;
+}
+
 // Main function.
 int main()
 {
