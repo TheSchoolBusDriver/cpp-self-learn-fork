@@ -24,17 +24,18 @@ int main()
     // Variable to store options.
     bool isMale = true;
     //bool isMale = false;
+    bool isTall = true;
 
     // This will check if the user is a male or not.
-    if(isMale)
+    if(isMale && isTall)
     {
         // Printing a success message.
-        cout << "You are a male!" << endl;
+        cout << "You are a tall male!" << endl;
     }
     else
     {
         // Printing a error message.
-        cout << "You are not a male!" << endl;
+        cout << "You are not a short male!" << endl;
     }
 
     return 0;
