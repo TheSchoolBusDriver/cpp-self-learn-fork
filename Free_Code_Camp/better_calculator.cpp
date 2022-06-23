@@ -23,7 +23,7 @@ using namespace std;
 int main()
 {
     // Printing a message.
-    cout << "Hello World!";
+    cout << "Hello World!" << endl;
     return 0;
 }
 
