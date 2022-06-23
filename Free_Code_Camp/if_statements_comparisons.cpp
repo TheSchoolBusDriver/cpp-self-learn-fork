@@ -19,19 +19,29 @@ Note: Uncomment codes to execute and comment them when not in use.
 using namespace std;
 
 // This function will give back the largest of two integers.
-int getMax(int num1, int num2)
+int getMax(int num1, int num2, int num3)
 {
     // This variable stores the largest result.
     int result;
     
     // Checks which is the largest.
-    if(num1 > num2)
+    // Number 1.
+    if(num1 >= num2 && num1 >= num3)
     {
+        // Integer 1 is the largest.
         result = num1;
     }
+    // Number 2
+    else if(num2 >= num1 && num2 >= num3)
+    {
+        // Integer 2 is the largest.
+        result = num2;
+    }
+    // Number 3
     else
     {
-        result = num2;
+        // Integer 3 is the largest.
+        result = num3;
     }
 
     // Returns the largest integer.
@@ -42,8 +52,8 @@ int getMax(int num1, int num2)
 int main()
 {
     // Printing the result.
-    cout << getMax(2, 5);
+    cout << getMax(2, 5, 10);
     return 0;
 }
-
+ 
 // Program end.
