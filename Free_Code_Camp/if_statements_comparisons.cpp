@@ -18,11 +18,31 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
+// This function will give back the largest of two integers.
+int getMax(int num1, int num2)
+{
+    // This variable stores the largest result.
+    int result;
+    
+    // Checks which is the largest.
+    if(num1 > num2)
+    {
+        result = num1;
+    }
+    else
+    {
+        result = num2;
+    }
+
+    // Returns the largest integer.
+    return result;
+}
+
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    // Printing the result.
+    cout << getMax(2, 5);
     return 0;
 }
 
