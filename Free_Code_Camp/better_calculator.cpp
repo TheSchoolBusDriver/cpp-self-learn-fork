@@ -33,6 +33,36 @@ int main()
     cin >> op;
     cout << "Enter second number: ";
     cin >> num2;
+    
+    // Will check operators and conduct calculations.
+    // Addition.
+    if(op == '+')
+    {
+        result = num1 + num2;
+    }
+    // Subtraction.
+    else if(op == '-')
+    {
+        result = num1 - num2;
+    }
+    // Division.
+    else if(op == '/')
+    {
+        result = num1 / num2;
+    }
+    // Multiplication.
+    else if(op == '*')
+    {
+        result = num1 * num2;
+    }
+    // Error message.
+    else
+    {
+        cout << "INVALID OPERATOR!";
+    }
+
+    // Printing the result.
+    cout << "Result = " << result;
 
     return 0;
 }
