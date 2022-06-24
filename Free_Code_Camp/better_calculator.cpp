@@ -22,8 +22,8 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Variables to store two numbers to be calculated and operator to be used.
-    int num1, num2;
+    // Variables to store two numbers to be calculatd operator to be used and result.
+    int num1, num2, result;
     char op;
 
     // Gets input from the user.
