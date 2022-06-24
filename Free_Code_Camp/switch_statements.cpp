@@ -68,7 +68,10 @@ string getDayOfWeek(int dayNum)
 int main()
 {
     // Prints day of the week's name.
-    cout << "Day of the week: " << getDayOfWeek(2);
+    cout << "Day of the week: " << getDayOfWeek(2) ;
+
+    // Prints day of the week's name (Invalid option test).
+    //cout << "Day of the week: " << getDayOfWeek(10);
     return 0;
 }
 
