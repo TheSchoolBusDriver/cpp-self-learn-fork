@@ -22,8 +22,18 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    // Variables to store two numbers to be calculated and operator to be used.
+    int num1, num2;
+    char op;
+
+    // Gets input from the user.
+    cout << "Enter first number: ";
+    cin >> num1;
+    cout << "Enter operator: ";
+    cin >> op;
+    cout << "Enter second number: ";
+    cin >> num2;
+
     return 0;
 }
 
