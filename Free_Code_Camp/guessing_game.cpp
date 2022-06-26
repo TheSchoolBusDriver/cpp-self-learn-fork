@@ -25,6 +25,17 @@ int main()
     int secretNum = 7;
     int guess;
 
+    // Iterates until user guesses correct number.
+    while(secretNum != guess)
+    {
+        // Asks for user input.
+        cout << "Enter guess: ";
+        cin >> guess;
+    }
+
+    // Success message.
+    cout << "Your guess is: " << guess << ". You Win!";
+
     return 0;
 }
 
