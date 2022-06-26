@@ -40,6 +40,7 @@ int main()
         // Asks for user input.
         cout << "Enter guess: ";
         cin >> guess;
+        guessCount++;
     }
 
     // Success message.
