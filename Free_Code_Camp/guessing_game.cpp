@@ -35,12 +35,22 @@ int main()
     int outOfGuesses = false;
 
     // Iterates until user guesses correct number.
-    while(secretNum != guess)
+    while(secretNum != guess && !outOfGuesses)
     {
-        // Asks for user input.
-        cout << "Enter guess: ";
-        cin >> guess;
-        guessCount++;
+        // Lets user guess until guess limit.
+        if(guessCount < guessLimit)
+        {
+            // Asks for user input.
+            cout << "Enter guess: ";
+            cin >> guess;
+            guessCount++;
+        }
+        // Ran out of guesses.
+        else
+        {
+            outOfGuesses = true;
+        }
+
     }
 
     // Success message.
