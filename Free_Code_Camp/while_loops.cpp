@@ -21,8 +21,17 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    // Variable to store index number.
+    int index = 1;
+
+    // This will print out a series of numbers.
+    while(index <= 5)
+    {
+        // Prints numbers from 1-5.
+        cout << index << endl;
+        index++;
+    }
+
     return 0;
 }
 
