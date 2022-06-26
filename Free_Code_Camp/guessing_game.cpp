@@ -21,9 +21,18 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Variables to store secret number and guess count.
+    /*
+      secretNum - Stores secret number.
+      guess - Stores user guess.
+      guessCount - Stores the amount of user guesses.
+      guessLimit - Stores user guess limit.
+      outOfGuesses - Displays any guesses left.
+    */
     int secretNum = 7;
     int guess;
+    int guessCount = 0;
+    int guessLimit = 3;
+    int outOfGuesses = false;
 
     // Iterates until user guesses correct number.
     while(secretNum != guess)
