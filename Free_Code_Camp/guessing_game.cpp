@@ -21,8 +21,10 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    // Variables to store secret number and guess count.
+    int secretNum = 7;
+    int guess;
+
     return 0;
 }
 
