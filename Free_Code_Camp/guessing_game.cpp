@@ -53,8 +53,17 @@ int main()
 
     }
 
-    // Success message.
-    cout << "Your guess is: " << guess << ". You Win!";
+    // Win or Lose messages.
+    // Win
+    if(outOfGuesses)
+    {
+        cout << "You Lost!";
+    }
+    // Lose.
+    else
+    {
+        cout << "Your guess is: " << guess << ". You Win!";
+    }
 
     return 0;
 }
