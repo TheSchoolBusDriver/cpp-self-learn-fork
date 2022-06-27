@@ -18,6 +18,23 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
+// This function will raise power to two numbers given.
+int power(int baseNum, int powerNum)
+{
+    // This will store the end result.
+    int result = 1;
+
+    // This will loop through until a power number comes.
+    for(int i = 0; i < powerNum; i++)
+    {
+        // Increments final result.
+        result = result * baseNum;
+    }
+
+    // Returns the calculated result.
+    return result;
+}
+
 // Main function.
 int main()
 {
