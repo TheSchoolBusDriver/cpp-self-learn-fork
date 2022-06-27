@@ -38,8 +38,8 @@ int power(int baseNum, int powerNum)
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    // Calling function.
+    cout << power(2, 3);
     return 0;
 }
 
