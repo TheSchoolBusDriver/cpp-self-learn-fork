@@ -24,12 +24,14 @@ int main()
     // Variable declared to store index.
     int index = 1;
 
+    /*
     // Prints out series of numbers (1-5).
     while(index <= 5)
     {
         cout << index << endl;
         index++;
     }
+    */
 
     return 0;
 }
