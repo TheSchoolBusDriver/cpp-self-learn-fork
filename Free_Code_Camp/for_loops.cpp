@@ -21,8 +21,9 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Variable declared to store index.
+    // Variable declared to store index and contents of an array.
     int index = 1;
+    int nums[] = {1, 2, 5, 7, 3};
 
     /*
     // Prints out series of numbers 1-5 (WHILE Loop).
@@ -40,6 +41,12 @@ int main()
         cout << i << endl;
     }
     */
+
+    // Prints contents of an array.
+    for(int i = 0; i <= 5; i++)
+    {
+        cout << nums[i] << endl;
+    }
 
     return 0;
 }
