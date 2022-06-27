@@ -25,7 +25,7 @@ int main()
     int index = 1;
 
     /*
-    // Prints out series of numbers (1-5).
+    // Prints out series of numbers 1-5 (WHILE Loop).
     while(index <= 5)
     {
         cout << index << endl;
