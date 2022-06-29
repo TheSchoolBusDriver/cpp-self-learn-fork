@@ -21,6 +21,17 @@ using namespace std;
 // Main function.
 int main()
 {
+    // Stores a 2D array of numbers.
+    int numberGrid[3][2] =
+    {
+        {1, 2}, // Element one.
+        {3, 4}, // Element two.
+        {5, 6}  // Element three.
+    };
+
+    // Accessing array contents.
+    cout << numberGrid[0][1] << endl;
+    cout << numberGrid[2][0] << endl;
     
     return 0;
 }
