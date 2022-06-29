@@ -21,8 +21,8 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    // Simple comment.
+    cout << "Comments are fun" << endl;
     return 0;
 }
 
