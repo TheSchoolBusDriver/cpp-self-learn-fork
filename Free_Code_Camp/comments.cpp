@@ -32,6 +32,9 @@ int main()
     */
     cout << "Multi-line comment" << endl;
 
+    // Commenting out error example.
+    //cout << "Hello World" << endl:
+
     return 0;
 }
 
