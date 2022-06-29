@@ -34,6 +34,19 @@ int main()
     cout << numberGrid[0][1] << endl;
     cout << numberGrid[2][0] << endl;
     */
+
+    // Displays all elements of 2D array.
+    for(int i = 0; i < 3; i++)
+    {
+        // Loops through individual element.
+        for(int j = 0; j < 2; j++)
+        {
+            // Prints out all the elements.
+            cout << numberGrid[i][j];
+        }
+        // New line.
+        cout << endl;
+    }
     
     return 0;
 }
