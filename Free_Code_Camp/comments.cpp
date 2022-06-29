@@ -23,6 +23,15 @@ int main()
 {
     // Simple comment.
     cout << "Comments are fun" << endl;
+
+    /*
+    Multi line comments
+    This is
+    a Multi line
+    comment.
+    */
+    cout << "Multi-line comment" << endl;
+
     return 0;
 }
 
