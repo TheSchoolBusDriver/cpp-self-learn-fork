@@ -21,14 +21,14 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Simple comment.
+    // Simple comment example.
     cout << "Comments are fun" << endl;
 
     /*
     Multi line comments
     This is
     a Multi line
-    comment.
+    comment example.
     */
     cout << "Multi-line comment" << endl;
 
