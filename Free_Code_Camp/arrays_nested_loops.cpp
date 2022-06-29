@@ -29,9 +29,11 @@ int main()
         {5, 6}  // Element three.
     };
 
+    /*
     // Accessing array contents.
     cout << numberGrid[0][1] << endl;
     cout << numberGrid[2][0] << endl;
+    */
     
     return 0;
 }
