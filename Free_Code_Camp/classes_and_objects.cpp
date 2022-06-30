@@ -40,6 +40,12 @@ int main()
     //double pi = 3.14;
     //char favoriteLetter = 'A';
 
+    // Creating a book object.
+    Book book1;
+    book1.title = "Harry Potter";
+    book1.author = "JK Rowling";
+    book1.pages = 600;
+
     return 0;
 }
 
