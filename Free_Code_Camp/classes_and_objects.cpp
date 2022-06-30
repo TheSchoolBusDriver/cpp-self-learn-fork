@@ -52,10 +52,16 @@ int main()
     book2.author = "Marcus Aurelius";
     book2.pages = 300;
 
+    // Separator.
+    cout << "-------------------------" << endl;
+
     // Accessing book object attributes (Object 01).
     cout << "Title: " << book1.title << endl;
     cout << "Author: " << book1.author << endl;
     cout << "Pages: " << book1.pages << endl;
+
+    // Separator.
+    cout << "-------------------------" << endl;
 
     // Accessing book object attributes (Object 02).
     cout << "Title: " << book2.title << endl;
