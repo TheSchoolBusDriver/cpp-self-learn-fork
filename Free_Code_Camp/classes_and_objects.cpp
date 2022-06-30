@@ -56,7 +56,7 @@ int main()
     Book book3;
     book3.title = "Lord of the Rings";
     book3.author = "J.R.R Tolkein";
-    book3.author = 1000;
+    book3.pages = 1000;
 
     // Separator.
     cout << "-------------------------" << endl;
