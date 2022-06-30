@@ -57,6 +57,11 @@ int main()
     cout << "Author: " << book1.author << endl;
     cout << "Pages: " << book1.pages << endl;
 
+    // Accessing book object attributes (Object 02).
+    cout << "Title: " << book2.title << endl;
+    cout << "Author: " << book2.author << endl;
+    cout << "Pages: " << book2.pages << endl;
+
     return 0;
 }
 
