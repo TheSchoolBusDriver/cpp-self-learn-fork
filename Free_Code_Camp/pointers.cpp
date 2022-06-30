@@ -21,7 +21,7 @@ using namespace std;
 // Main function.
 int main()
 {
-    // Variables to store age, gpa and name.
+    
     int age = 19;
     double gpa = 2.7;
     string name = "Affaan";
