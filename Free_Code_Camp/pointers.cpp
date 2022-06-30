@@ -48,7 +48,6 @@ int main()
     cout << "GPA: " << pGpa << endl; // gpa.
     cout << "Name: " << pName << endl; // name.
 
-
     return 0;
 }
 
