@@ -57,10 +57,12 @@ int main()
     cout << "Name: " << *pName << endl; // name.
     */
 
+    /*
     // Accessing dereferenced pointer variables (Version 02).
     cout << "Age: " << *&age << endl; // age.
     cout << "GPA: " << *&gpa << endl; // gpa.
     cout << "Name: " << *&name << endl; // name.
+    */
 
     return 0;
 }
