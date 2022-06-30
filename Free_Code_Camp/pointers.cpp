@@ -21,10 +21,21 @@ using namespace std;
 // Main function.
 int main()
 {
-    
+    /*
+    age - Stores age.
+    *pAge - Stores pointer variable for age.
+    gpa - Stores gpa.
+    *pGpa - Stores pointer variable for gpa.
+    name - Stores name.
+    *pName - Stores pointer variable for name.
+    */
     int age = 19;
+    int *pAge = &age;
     double gpa = 2.7;
+    double *pGpa = &gpa;
     string name = "Affaan";
+    string *pName = &name;
+
 
     // Accessing memory addresses.
     cout << "Age: " << &age << endl; // age.
