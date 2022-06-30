@@ -21,14 +21,17 @@ using namespace std;
 // Main function.
 int main()
 {
+    
     /*
     name - Stores variable for name.
     pi - Stores variable for first three digits of pi.
     favoriteLetter - Stores variable for favourite letter character.
     */
-    string name = "Affaan";
-    double pi = 3.14;
-    char favoriteLetter = 'A';
+    //string name = "Affaan";
+    //double pi = 3.14;
+    //char favoriteLetter = 'A';
+    
+    
 
     return 0;
 }
