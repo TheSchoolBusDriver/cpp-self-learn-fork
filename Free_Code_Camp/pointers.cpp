@@ -64,6 +64,11 @@ int main()
     cout << "Name: " << *&name << endl; // name.
     */
 
+    // Accessing memory address (Version 03).
+    cout << "Age: " << &*&age << endl; // age.
+    cout << "GPA: " << &*&gpa << endl; // gpa.
+    cout << "Name: " << &*&name << endl; // name.
+
     return 0;
 }
 
