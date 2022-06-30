@@ -26,6 +26,12 @@ int main()
     double gpa = 2.7;
     string name = "Affaan";
 
+    // Accessing memory addresses.
+    cout << "Age: " << &age << endl; // age.
+    cout << "GPA: " << &gpa << endl; // gpa.
+    cout << "Name: " << &name << endl; // name.
+
+
     return 0;
 }
 
