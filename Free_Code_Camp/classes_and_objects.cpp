@@ -40,11 +40,17 @@ int main()
     //double pi = 3.14;
     //char favoriteLetter = 'A';
 
-    // Creating a book object.
+    // Creating a book object (Object 01).
     Book book1;
     book1.title = "Harry Potter";
     book1.author = "JK Rowling";
     book1.pages = 600;
+
+    // Creating a book object (Object 02).
+    Book book2;
+    book2.title = "Meditations";
+    book2.author = "Marcus Aurelius";
+    book2.pages = 300;
 
     // Accessing book object attributes.
     cout << "Title: " << book1.title << endl;
