@@ -36,7 +36,7 @@ int main()
     string name = "Affaan";
     string *pName = &name;
 
-    // Accessing memory addresses.
+    // Accessing memory addresses using normal variables.
     cout << "Age: " << &age << endl; // age.
     cout << "GPA: " << &gpa << endl; // gpa.
     cout << "Name: " << &name << endl; // name.
