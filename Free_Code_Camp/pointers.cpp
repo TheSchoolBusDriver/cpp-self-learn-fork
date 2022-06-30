@@ -50,7 +50,7 @@ int main()
     cout << "Name: " << pName << endl; // name.
     */
 
-    // Accessing dereferenced pointer variables.
+    // Accessing dereferenced pointer variables (Version 01).
     cout << "Age: " << *pAge << endl; // age.
     cout << "GPA: " << *pGpa << endl; // gpa.
     cout << "Name: " << *pName << endl; // name.
