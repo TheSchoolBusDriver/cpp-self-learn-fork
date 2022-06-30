@@ -18,6 +18,16 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
+// Class for book data type.
+class Book
+{
+    // Attributes for the class.
+    public:
+        string title; // Stores title of the book.
+        string author; // Stores book authors name.
+        int pages; // Stores numbers of pages in the book.        
+};
+
 // Main function.
 int main()
 {
