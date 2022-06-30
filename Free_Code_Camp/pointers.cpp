@@ -42,11 +42,13 @@ int main()
     cout << "GPA: " << &gpa << endl; // gpa.
     cout << "Name: " << &name << endl; // name.
     */
-
+    
+    /*
     // Accessing memory addresses using pointer variables.
     cout << "Age: " << pAge << endl; // age.
     cout << "GPA: " << pGpa << endl; // gpa.
     cout << "Name: " << pName << endl; // name.
+    */
 
     return 0;
 }
