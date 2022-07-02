@@ -43,7 +43,7 @@ int main()
     Book book1("Harry Potter", "J.K Rowling", 600);
 
     // Creating a book object (Object 02).
-    Book book2;
+    Book book2("Meditations", "Marcus Aurelius", 300);
 
     // Separator.
     cout << "-------------------------" << endl;
