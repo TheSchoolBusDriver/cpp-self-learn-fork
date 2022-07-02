@@ -31,7 +31,14 @@ class Book
 // Main function.
 int main()
 {
+    // Creating a book object (Object 01).
+    Book book1;
+    book1.title = "Harry Potter";
+    book1.author = "J.K Rowling";
+    book1.pages = 600;
+
     
+
     return 0;
 }
 
