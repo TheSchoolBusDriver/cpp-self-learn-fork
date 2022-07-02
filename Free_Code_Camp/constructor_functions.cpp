@@ -26,6 +26,14 @@ class Book
         string title; // Stores title of the book.
         string author; // Stores book authors name.
         int pages; // Stores numbers of pages in the book.
+
+        // Constructor.
+        Book(string aTitle, string aAuthor, int aPages)
+        {
+            title = aTitle; // Title.
+            author = aAuthor; // Author.
+            pages = aPages; // Pages.
+        }
 };
 
 // Main function.
