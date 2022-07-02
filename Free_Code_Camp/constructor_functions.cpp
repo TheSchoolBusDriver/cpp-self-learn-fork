@@ -31,8 +31,7 @@ class Book
 // Main function.
 int main()
 {
-    // Printing a message.
-    cout << "Hello World!" << endl;
+    
     return 0;
 }
 
