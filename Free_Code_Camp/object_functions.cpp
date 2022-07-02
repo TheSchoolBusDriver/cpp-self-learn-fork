@@ -26,6 +26,14 @@ class Student
         string name;
         string major;
         double gpa;
+
+        // Constructor.
+        Student(string aName, string aMajor, double aGpa)
+        {
+            name = aName; // Name.
+            major = aMajor; // Major.
+            gpa = aGpa; // GPA.
+        }
 };
 
 // Main function.
