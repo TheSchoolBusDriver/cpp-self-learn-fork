@@ -42,6 +42,9 @@ int main()
     // Creating a student object (Student 01).
     Student student1("Ahmed Affaan", "Computer Science", 120);
 
+    // Creating a student object (Object 02).
+    Student student2("Mike Dan", "International Relations", 100);
+
     return 0;
 }
 
