@@ -40,7 +40,7 @@ class Book
 int main()
 {
     // Creating a book object (Object 01).
-    Book book1;
+    Book book1("Harry Potter", "J.K Rowling", 600);
 
     // Creating a book object (Object 02).
     Book book2;
