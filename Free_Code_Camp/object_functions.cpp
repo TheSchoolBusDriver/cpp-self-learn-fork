@@ -39,7 +39,9 @@ class Student
 // Main function.
 int main()
 {
-    
+    // Creating a student object (Student 01).
+    Student student1("Ahmed Affaan", "Computer Science", 120);
+
     return 0;
 }
 
