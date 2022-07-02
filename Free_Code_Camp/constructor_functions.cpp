@@ -54,6 +54,14 @@ int main()
     // Separator.
     cout << "-------------------------" << endl;
 
+    // Accessing book object attributes (Object 02).
+    cout << "Title: " << book2.title << endl;
+    cout << "Author: " << book2.author << endl;
+    cout << "Pages: " << book2.pages << endl;
+
+    // Separator.
+    cout << "-------------------------" << endl;
+
     return 0;
 }
 
