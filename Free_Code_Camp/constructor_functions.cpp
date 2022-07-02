@@ -45,6 +45,9 @@ int main()
     // Creating a book object (Object 02).
     Book book2("Meditations", "Marcus Aurelius", 300);
 
+    // Creating a book object (Object 03).
+    Book book3("Lord of the Rings", "J.R.R Tolkein", 1000);
+
     // Separator.
     cout << "-------------------------" << endl;
 
