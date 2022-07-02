@@ -37,7 +37,16 @@ int main()
     book1.author = "J.K Rowling";
     book1.pages = 600;
 
-    
+    // Separator.
+    cout << "-------------------------" << endl;
+
+    // Accessing book object attributes (Object 01).
+    cout << "Title: " << book1.title << endl;
+    cout << "Author: " << book1.author << endl;
+    cout << "Pages: " << book1.pages << endl;
+
+    // Separator.
+    cout << "-------------------------" << endl;
 
     return 0;
 }
