@@ -18,6 +18,16 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
+// Class for creating Student objects.
+class Student
+{
+    // Attributes for the class.
+    public:
+        string name;
+        string major;
+        double gpa;
+};
+
 // Main function.
 int main()
 {
