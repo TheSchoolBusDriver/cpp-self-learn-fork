@@ -44,9 +44,6 @@ int main()
 
     // Creating a book object (Object 02).
     Book book2;
-    book2.title = "Meditations";
-    book2.author = "Marcus Aurelius";
-    book2.pages = 300;
 
     // Separator.
     cout << "-------------------------" << endl;
