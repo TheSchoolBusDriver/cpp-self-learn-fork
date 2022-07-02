@@ -18,7 +18,7 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
-// Class for book data type.
+// Class for creating Book objects.
 class Book
 {
     // Attributes for the class.
