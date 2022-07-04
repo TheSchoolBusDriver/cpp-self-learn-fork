@@ -34,6 +34,18 @@ class Student
             major = aMajor; // Major.
             gpa = aGpa; // GPA.
         }
+
+        // This function returns if the student has honours or not.
+        bool hasHonours()
+        {
+            // Checks GPA is equal to or higher than 3.5.
+            if(gpa >= 3.5)
+            {
+                return true;
+            }
+            // GPA lower than 3.5
+            return false;
+        }
 };
 
 // Main function.
