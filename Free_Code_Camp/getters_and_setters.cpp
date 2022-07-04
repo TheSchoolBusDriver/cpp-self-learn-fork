@@ -39,7 +39,9 @@ class Movie
 // Main function.
 int main()
 {
-    
+    // Creating a Movie object (Movie 01).
+    Movie avengers("The Avengers", "Joss Whedon", "PG-13");
+
     return 0;
 }
 
