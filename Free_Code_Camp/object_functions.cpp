@@ -23,9 +23,9 @@ class Student
 {
     // Attributes for the class.
     public:
-        string name;
-        string major;
-        double gpa;
+        string name; // Stores students name.
+        string major; // Stores students major.
+        double gpa; // Stores students gpa.
 
         // Constructor.
         Student(string aName, string aMajor, double aGpa)
