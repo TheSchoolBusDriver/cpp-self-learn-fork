@@ -57,6 +57,12 @@ int main()
     // Creating a student object (Student 02).
     Student student2("Mike Dan", "International Relations", 3.6);
 
+    // Checks for individual honour level (Student 01).
+    cout << "Student 01 Honor Level: " << student1.hasHonours() << endl;
+
+    // Checks for individual honour level (Student 02).
+    cout << "Student 02 Honor Level: " << student2.hasHonours() << endl;
+
     return 0;
 }
 
