@@ -18,6 +18,24 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
+// Class for creating Movie objects.
+class Movie
+{
+    // Attributes for the class.
+    public:
+        string title; // Stores Movie title.
+        string director; // Stores Movie directors name.
+        string rating; // Stores Movie's rating.
+
+        // Constructor.
+        Movie(string aTitle, string aDirector, string aRating)
+        {
+            title = aTitle; // Title.
+            director = aDirector; // Director.
+            rating = aRating; // Rating.
+        }
+};
+
 // Main function.
 int main()
 {
