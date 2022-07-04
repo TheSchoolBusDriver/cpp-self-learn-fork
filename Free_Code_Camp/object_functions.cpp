@@ -52,10 +52,10 @@ class Student
 int main()
 {
     // Creating a student object (Student 01).
-    Student student1("Ahmed Affaan", "Computer Science", 120);
+    Student student1("Ahmed Affaan", "Computer Science", 2.4);
 
     // Creating a student object (Student 02).
-    Student student2("Mike Dan", "International Relations", 100);
+    Student student2("Mike Dan", "International Relations", 3.6);
 
     return 0;
 }
