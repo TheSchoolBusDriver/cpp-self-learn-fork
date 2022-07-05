@@ -67,7 +67,7 @@ int main()
     // Creating a Movie object (Movie 01).
     Movie avengers("The Avengers", "Joss Whedon", "PG-13");
 
-    // Sets new Movie rating.
+    // Sets new Movie rating (Invalid Rating).
     //avengers.setRating("Dog");
 
     // Displays invalid rating.
