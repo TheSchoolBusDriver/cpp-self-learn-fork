@@ -59,7 +59,6 @@ class Movie
         {
             return rating;
         }
-
 };
 
 // Main function.
