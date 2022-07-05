@@ -18,6 +18,30 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 using namespace std;
 
+// Class for creating Chef objects.
+class Chef
+{
+    // Public attributes for the class.
+    public:
+        // Displays specific cooking skill (Chicken).
+        void makeChicken()
+        {
+            cout << "The Chef makes chicken" << endl;
+        }
+
+        // Displays specific cooking skill (Salad).
+        void makeSalad()
+        {
+            cout << "The Chef makes salad" << endl;
+        }
+
+        // Displays specific cooking skill (Special Dish).
+        void makeSpecialDish()
+        {
+            cout << "The Chef makes bbq ribs" << endl;
+        }
+};
+
 // Main function.
 int main()
 {
