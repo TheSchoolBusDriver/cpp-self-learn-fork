@@ -70,6 +70,9 @@ int main()
     // Creating a Movie object (Movie 02).
     Movie inception("Inception", "Christopher Nolan", "PG-13");
 
+    // Creating a Movie object (Movie 03).
+    Movie pulp_fiction("Pulp Fiction", "Quentin Tarantino", "PG-13");
+
     // Sets new Movie rating (Invalid Rating).
     //avengers.setRating("Dog");
 
@@ -77,7 +80,7 @@ int main()
     avengers.setRating("G");
 
     // Displays invalid rating.
-    cout << avengers.getRating();
+    //cout << avengers.getRating();
 
     return 0;
 }
