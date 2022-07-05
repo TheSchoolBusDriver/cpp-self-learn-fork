@@ -55,7 +55,7 @@ int main()
     Chef chef;
     ItalianChef italianchef;
 
-    // Displays specific Chef jobs.
+    // Displays specific Chef jobs (Chef).
     chef.makeChicken();
     chef.makeSalad();
     chef.makeSpecialDish();
