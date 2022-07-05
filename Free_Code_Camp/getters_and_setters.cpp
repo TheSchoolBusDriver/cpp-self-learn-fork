@@ -70,6 +70,9 @@ int main()
     // Sets new Movie rating (Invalid Rating).
     //avengers.setRating("Dog");
 
+    // Sets new Movie rating (Valid Rating).
+    avengers.setRating("G");
+
     // Displays invalid rating.
     cout << avengers.getRating();
 
