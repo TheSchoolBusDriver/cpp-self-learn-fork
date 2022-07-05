@@ -53,6 +53,13 @@ class Movie
                 rating = "NR";
             }
         }
+
+        // Displays private attributes (Rating).
+        string getRating()
+        {
+            return rating;
+        }
+
 };
 
 // Main function.
@@ -62,7 +69,7 @@ int main()
     Movie avengers("The Avengers", "Joss Whedon", "PG-13");
 
     // Accessing Movie object attributes (Movie 01).
-    cout << "Rating: " << avengers.rating << endl;
+    cout << "Rating: " << avengers.getRating << endl;
 
     // Sets new Movie rating.
     avengers.setRating("Dog");
