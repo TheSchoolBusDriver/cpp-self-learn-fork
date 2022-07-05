@@ -29,7 +29,6 @@ class Movie
     public:
         string title; // Stores Movie title.
         string director; // Stores Movie directors name.
-        string rating; // Stores Movie's rating.
 
         // Constructor.
         Movie(string aTitle, string aDirector, string aRating)
@@ -66,6 +65,11 @@ int main()
     // Accessing Movie object attributes (Movie 01).
     cout << "Rating: " << avengers.rating << endl;
     */
+
+    // Sets new Movie rating.
+    avengers.setRating("Dog");
+
+
 
     return 0;
 }
