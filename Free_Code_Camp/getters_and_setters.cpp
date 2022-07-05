@@ -25,7 +25,7 @@ class Movie
     private:
         string rating; // Stores Movie's rating.
 
-    // Attributes for the class.
+    // Public attributes for the class.
     public:
         string title; // Stores Movie title.
         string director; // Stores Movie directors name.
