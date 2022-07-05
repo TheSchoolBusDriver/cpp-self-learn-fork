@@ -32,7 +32,23 @@ class Movie
         {
             title = aTitle; // Title.
             director = aDirector; // Director.
-            rating = aRating; // Rating.
+            setRating(aRating); // Rating.
+        }
+
+        // Controls what ratings can be set to movies.
+        void setRating(string aRating)
+        {
+            // Checks rating is a valid rating.
+            if(aRating == "G" || aRating == "PG" || aRating == "PG-13" || aRating == "R" || aRating == "NR")
+            {
+                // Entered a valid rating.
+                rating = aRating;
+            }
+            else
+            {
+                // Entered an invalid rating.
+                rating = "NR";
+            }
         }
 };
 
