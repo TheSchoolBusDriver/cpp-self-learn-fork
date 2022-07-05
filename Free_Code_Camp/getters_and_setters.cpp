@@ -68,7 +68,7 @@ int main()
     Movie avengers("The Avengers", "Joss Whedon", "PG-13");
 
     // Sets new Movie rating.
-    avengers.setRating("Dog");
+    //avengers.setRating("Dog");
 
     // Displays invalid rating.
     cout << avengers.getRating();
