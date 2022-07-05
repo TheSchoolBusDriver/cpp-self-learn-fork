@@ -44,6 +44,7 @@ int main()
 
     // Accessing Movie object attributes (Movie 01).
     cout << "Rating: " << avengers.rating << endl;
+    cout << "Director: " << avengers.director << endl;
 
     return 0;
 }
