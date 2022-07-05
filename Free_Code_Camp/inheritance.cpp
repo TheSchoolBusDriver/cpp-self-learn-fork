@@ -45,7 +45,25 @@ class Chef
 // Class for creating Italian Chef objects (Inherited from Chef).
 class ItalianChef : public Chef
 {
+    // Public attributes for the class.
+    public:
+        // Displays specific cooking skill (Pasta).
+        void makePasta()
+        {
+            cout << "The Chef makes pasta" << endl;
+        }
 
+        // Displays specific cooking skill (Lasagna).
+        void makeLasagna()
+        {
+            cout << "The Chef makes Lasagna" << endl;
+        }
+
+        // Displaying specific cooking skill (Chicken Parm).
+        void makeSpecialDish()
+        {
+            cout << "The Chef makes Chicken Parm" << endl;
+        }
 };
 
 // Main function.
