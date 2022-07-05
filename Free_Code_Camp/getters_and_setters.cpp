@@ -61,15 +61,11 @@ int main()
     // Creating a Movie object (Movie 01).
     Movie avengers("The Avengers", "Joss Whedon", "PG-13");
 
-    /*
     // Accessing Movie object attributes (Movie 01).
     cout << "Rating: " << avengers.rating << endl;
-    */
 
     // Sets new Movie rating.
     avengers.setRating("Dog");
-
-
 
     return 0;
 }
