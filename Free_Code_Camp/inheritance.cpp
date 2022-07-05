@@ -42,6 +42,12 @@ class Chef
         }
 };
 
+// Class for creating Italian Chef objects (Inherited from Chef).
+class ItalianChef : public Chef
+{
+
+};
+
 // Main function.
 int main()
 {
