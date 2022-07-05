@@ -21,6 +21,10 @@ using namespace std;
 // Class for creating Movie objects.
 class Movie
 {
+    // Private attributes for the class.
+    private:
+        string rating; // Stores Movie's rating.
+
     // Attributes for the class.
     public:
         string title; // Stores Movie title.
