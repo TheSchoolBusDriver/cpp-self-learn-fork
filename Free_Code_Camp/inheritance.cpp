@@ -60,6 +60,11 @@ int main()
     chef.makeSalad();
     chef.makeSpecialDish();
 
+    // Displays specific Chef jobs (ItalianChef)
+    italianchef.makeChicken();
+    italianchef.makeSalad();
+    italianchef.makeSpecialDish();
+
     return 0;
 }
 
