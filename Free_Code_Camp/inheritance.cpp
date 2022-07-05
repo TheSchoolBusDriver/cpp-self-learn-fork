@@ -51,8 +51,9 @@ class ItalianChef : public Chef
 // Main function.
 int main()
 {
-    // Assigning Chef class to variable.
+    // Assigning Chef and ItalianChef class to variables.
     Chef chef;
+    ItalianChef italianchef;
 
     // Displays specific Chef jobs.
     chef.makeChicken();
