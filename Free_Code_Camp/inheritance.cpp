@@ -108,6 +108,11 @@ int main()
     italianchef.makeLasagna();
     italianchef.makeSpecialDish();
 
+    // Displays specific Chef jobs (IndianChef).
+    indianchef.makeCurry();
+    indianchef.makeBiryani();
+    indianchef.makeSpecialDish();
+
     return 0;
 }
 
