@@ -70,7 +70,7 @@ int main()
     // Sets new Movie rating.
     avengers.setRating("Dog");
 
-    // Accessing Movie object attributes (Movie 01).
+    // Displays invalid rating.
     cout << avengers.getRating();
 
     return 0;
