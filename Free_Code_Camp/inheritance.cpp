@@ -72,6 +72,7 @@ int main()
     // Assigning Chef and ItalianChef class to variables.
     Chef chef;
     ItalianChef italianchef;
+    IndianChef indianchef;
 
     // Displays specific Chef jobs (Chef).
     chef.makeChicken();
@@ -79,8 +80,8 @@ int main()
     chef.makeSpecialDish();
 
     // Displays specific Chef jobs (ItalianChef)
-    italianchef.makeChicken();
-    italianchef.makeSalad();
+    italianchef.makePasta();
+    italianchef.makeLasagna();
     italianchef.makeSpecialDish();
 
     return 0;
