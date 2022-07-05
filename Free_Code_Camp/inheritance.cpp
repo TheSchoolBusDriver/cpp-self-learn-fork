@@ -66,6 +66,30 @@ class ItalianChef : public Chef
         }
 };
 
+// Class for creating Indian Chef objects (Inherited from Chef and ItalianChef).
+class IndianChef : public Chef, ItalianChef
+{
+    // Public attributes for the class.
+    public:
+        // Displays specific cooking skill (Curry).
+        void makeCurry()
+        {
+            cout << "The Chef makes Curry" << endl;
+        }
+
+        // Displays specific cooking skill (Biryani).
+        void makeBiryani()
+        {
+            cout << "The Chef makes Biryani" << endl;
+        }
+
+        // Displays specific cooking skill.
+        void makeSpecialDish()
+        {
+            cout << "The Chef makes Chutney" << endl;
+        }
+};
+
 // Main function.
 int main()
 {
