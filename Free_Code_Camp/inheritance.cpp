@@ -45,6 +45,13 @@ class Chef
 // Main function.
 int main()
 {
+    // Assigning Chef class to variable.
+    Chef chef;
+
+    // Displays specific Chef jobs.
+    chef.makeChicken();
+    chef.makeSalad();
+    chef.makeSpecialDish();
 
     return 0;
 }
