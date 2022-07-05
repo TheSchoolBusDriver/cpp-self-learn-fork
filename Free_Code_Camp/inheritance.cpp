@@ -69,7 +69,7 @@ class ItalianChef : public Chef
 // Main function.
 int main()
 {
-    // Assigning Chef and ItalianChef class to variables.
+    // Assigning Chef, ItalianChef and Indian chef class to variables.
     Chef chef;
     ItalianChef italianchef;
     IndianChef indianchef;
