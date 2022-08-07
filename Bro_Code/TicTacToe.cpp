@@ -28,4 +28,11 @@ void drawBoard(char *spaces){
 
 };
 
+// This function lets user move.
+void userMove(char *spaces, char user){
+
+};
+
+
+
 // Program end.
