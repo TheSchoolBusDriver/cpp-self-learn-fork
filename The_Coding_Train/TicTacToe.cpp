@@ -46,8 +46,8 @@ void computerMove(char *spaces, char computer){
 };
 
 // This function will check the winner of the game.
-void checkWinner(char *spaces, char user, char computer){
-
+bool checkWinner(char *spaces, char user, char computer){
+    return 0;
 };
 
 // This function will check the game tie.
