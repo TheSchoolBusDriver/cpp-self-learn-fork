@@ -17,8 +17,6 @@ Note: Uncomment codes to execute and comment them when not in use.
 #include <iostream>
 #include <ctime>
 
-using namespace std;
-
 // Main function.
 int main(){
     // Printing a message.
