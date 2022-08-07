@@ -21,8 +21,7 @@ using namespace std;
 
 // Main function.
 int main(){
-    // Printing a message.
-    cout << "Hello World!\n" << endl;
+    
     return 0;
 }
 
