@@ -30,7 +30,12 @@ void drawBoard(char *spaces){
 
 // This function will let the user move.
 void userMove(char *spaces, char user){
-    
+
+};
+
+// This function will let the computer move.
+void computerMove(char *spaces, char computer){
+
 };
 
 // Program end.
