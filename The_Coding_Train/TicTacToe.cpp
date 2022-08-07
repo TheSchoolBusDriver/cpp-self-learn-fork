@@ -19,8 +19,7 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Main function.
 int main(){
-    // Printing a message.
-    cout << "Hello World!\n" << endl;
+    
     return 0;
 }
 
