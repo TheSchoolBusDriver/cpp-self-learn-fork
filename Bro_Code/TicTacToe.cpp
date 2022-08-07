@@ -38,6 +38,11 @@ void computerMove(char *spaces, char computer){
 
 };
 
+// This function checks the winner.
+bool checkWinner(char *spaces, char user, char computer){
+    return 0;
+};
+
 
 
 // Program end.
