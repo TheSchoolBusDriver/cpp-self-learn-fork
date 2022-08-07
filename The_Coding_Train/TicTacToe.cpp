@@ -38,4 +38,9 @@ void computerMove(char *spaces, char computer){
 
 };
 
+// This function will check the winner of the game.
+void checkWinner(char *spaces, char player, char computer){
+
+};
+
 // Program end.
