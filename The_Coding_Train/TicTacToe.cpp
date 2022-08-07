@@ -13,7 +13,7 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Program start.
 
-// Importing libraries.
+// Importing header files.
 #include <iostream>
 #include <cmath>
 
