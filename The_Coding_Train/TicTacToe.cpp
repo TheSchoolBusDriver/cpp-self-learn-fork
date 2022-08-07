@@ -24,7 +24,7 @@ int main(){
 }
 
 // This function will draw the game board.
-void drawBoard(){
+void drawBoard(char *spaces){
     
 };
 
