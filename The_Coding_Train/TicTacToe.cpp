@@ -15,7 +15,7 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Importing header files.
 #include <iostream>
-#include <cmath>
+#include <ctime>
 
 using namespace std;
 
