@@ -43,6 +43,9 @@ bool checkWinner(char *spaces, char user, char computer){
     return 0;
 };
 
-
+// This function checks the game tie.
+bool checkTie(char *spaces){
+    return 0;
+};
 
 // Program end.
