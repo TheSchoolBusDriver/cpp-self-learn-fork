@@ -17,6 +17,13 @@ Note: Uncomment codes to execute and comment them when not in use.
 #include <iostream>
 #include <ctime>
 
+// FUNCTION STUBS
+void drawBoard(char *spaces);
+void userMove(char *spaces, char user);
+void computerMove(char *spaces, char computer);
+bool checkWinner(char *spaces, char user, char computer);
+bool checkTie(char *spaces);
+
 // Main function.
 int main(){
     
