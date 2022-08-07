@@ -23,4 +23,9 @@ int main(){
     return 0;
 }
 
+// This function draws the game board.
+void drawBoard(char *spaces){
+
+};
+
 // Program end.
