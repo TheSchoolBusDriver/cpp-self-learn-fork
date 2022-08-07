@@ -22,6 +22,7 @@ void drawBoard(char *spaces);
 void userMove(char *spaces, char user);
 void computerMove(char *spaces, char computer);
 void checkWinner(char *spaces, char user, char computer);
+bool checkTie(char *spaces);
 
 // Main function.
 int main(){
