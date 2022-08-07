@@ -33,6 +33,11 @@ void userMove(char *spaces, char user){
 
 };
 
+// This function lets computer move.
+void computerMove(char *spaces, char computer){
+
+};
+
 
 
 // Program end.
