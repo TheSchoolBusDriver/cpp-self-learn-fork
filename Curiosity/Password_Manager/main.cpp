@@ -15,6 +15,8 @@ Note: Uncomment codes to execute and comment them when not in use.
 
 // Importing header files.
 #include <iostream>
+#include <fstream>
+#include <stdio.h>
 
 // Main function.
 int main(){
