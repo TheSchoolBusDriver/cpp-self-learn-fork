@@ -29,7 +29,11 @@ int main(){
     // Array to display 9 game spaces.
     char spaces[9] = {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '};
     char user = 'X'; // User type in game.
-    char computer = 'O'; // Computer type in game. 
+    char computer = 'O'; // Computer type in game.
+    bool running = true; 
+
+    // Displays game board.
+    drawBoard(spaces);
     
     return 0;
 }
