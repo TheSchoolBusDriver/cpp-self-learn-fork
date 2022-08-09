@@ -28,6 +28,11 @@ int main(){
 // This function will help generate the keys.
 void writeKey(const std::string passwordKey){
 
-}    
+}
+
+// This function will helo load the keys.
+void loadKey(const std::string passwordKey){
+
+}
 
 // Program end.
