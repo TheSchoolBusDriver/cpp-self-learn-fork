@@ -31,6 +31,7 @@ int main(){
 }
 
 // This function draws the game board.
+// *spaces - Spaces occupied or free.
 void drawBoard(char *spaces){
 
 };
