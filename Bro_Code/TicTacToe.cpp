@@ -41,7 +41,18 @@ int main(){
 // This function draws the game board.
 // *spaces - Spaces occupied or free.
 void drawBoard(char *spaces){
-
+    std::cout << "   TIC TAC TOE   " << '\n';
+    std::cout << "_________________" << '\n';
+    std::cout << "|    |     |    |" << '\n'; 
+    std::cout << "|" << spaces[0] << "   | " << spaces[1] << "   |  " << spaces[2] << " |" << '\n'; // Row 1.
+    std::cout << "|____|_____|____|" << '\n';
+    std::cout << "|    |     |    |" << '\n';
+    std::cout << "|" << spaces[3] << "   | " << spaces[4] << "   |  " << spaces[5] << " |" << '\n'; // Row 2.
+    std::cout << "|____|_____|____|" << '\n';
+    std::cout << "|    |     |    |" << '\n';
+    std::cout << "|" << spaces[6] << "   | " << spaces[7] << "   |  " << spaces[8] << " |" << '\n'; // Row 3.
+    std::cout << "|____|_____|____|" << '\n';
+    std::cout << '\n';  
 };
 
 // This function lets user move.
