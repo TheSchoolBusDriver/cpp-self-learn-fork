@@ -18,6 +18,10 @@ Note: Uncomment codes to execute and comment them when not in use.
 #include <fstream>
 #include <stdio.h>
 
+// FUNCTION STUBS //
+void writeKey(const std::string passwordKey);
+void loadKey(const std::string passwordKey);
+
 // Main function.
 int main(){
     // Printing a message.
