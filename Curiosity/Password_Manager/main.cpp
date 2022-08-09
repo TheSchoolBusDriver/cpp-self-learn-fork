@@ -24,8 +24,7 @@ void loadKey(const std::string passwordKey);
 
 // Main function.
 int main(){
-    // Printing a message.
-    std::cout << "Hello World!" << '\n';
+    
     return 0;
 }
 
