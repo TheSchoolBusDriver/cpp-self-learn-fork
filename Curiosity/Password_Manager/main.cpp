@@ -5,7 +5,7 @@ Folder: CPP/Curiosity/Password_Manager
 Date: 10/08/2022
 Country: Republic of Maldives
 Code version: -
-Description: -
+Description: Understanding password encryption
 Credits to: Tech With Tim
 Credits to link: https://www.youtube.com/watch?v=DLn3jOsNRVE
 Note: Uncomment codes to execute and comment them when not in use.
