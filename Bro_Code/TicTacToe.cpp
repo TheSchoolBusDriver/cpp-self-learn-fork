@@ -26,6 +26,8 @@ bool checkTie(char *spaces);
 
 // Main function.
 int main(){
+    // Array to display 9 game spaces.
+    char spaces[9] = {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '};
     
     return 0;
 }
