@@ -28,6 +28,8 @@ bool checkTie(char *spaces);
 int main(){
     // Array to display 9 game spaces.
     char spaces[9] = {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '};
+    char user = 'X'; // User type in game.
+    char computer = 'O'; // Computer type in game. 
     
     return 0;
 }
