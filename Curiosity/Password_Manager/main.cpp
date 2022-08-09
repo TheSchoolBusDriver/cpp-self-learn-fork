@@ -25,4 +25,9 @@ int main(){
     return 0;
 }
 
+// This function will help generate the keys.
+void writeKey(const std::string passwordKey){
+
+}    
+
 // Program end.
