@@ -8,7 +8,7 @@ Code version: -
 Description: -
 Credits to: BroCode
 Credits to link: https://www.youtube.com/watch?v=-TkoO8Z07hI
-Note: Uncomment codes to execute and comment them when not in use.
+Note: Uncomment codes to execute and comment them when not in use. Several comments have been added to help you understand the program.
 */
 
 // Program start.
@@ -17,7 +17,7 @@ Note: Uncomment codes to execute and comment them when not in use.
 #include <iostream>
 
 // Main function.
-int main(){
+int main() {
     // Printing a message.
     std::cout << "Hello World!\n";
     return 0;
