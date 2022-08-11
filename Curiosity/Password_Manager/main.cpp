@@ -33,7 +33,7 @@ void writeKey(const std::string passwordKey){
 
 }
 
-// This function will helo load the keys.
+// This function will help load the keys.
 void loadKey(const std::string passwordKey){
 
 }
