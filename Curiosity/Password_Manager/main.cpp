@@ -38,9 +38,4 @@ void loadKey(const std::string passwordKey){
 
 }
 
-// This function will help add new passwords.
-void addPassword(const std::string password, const std::string name){
-
-}
-
 // Program end.
